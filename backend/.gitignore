@@ -1,0 +1,5 @@
+node_modules/
+.env
+error.log
+.DS_Store
+seed.js.env  

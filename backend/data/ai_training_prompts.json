@@ -1,0 +1,111 @@
+[
+    {
+        "intent": "creator_info",
+        "keywords": [
+            "who created you",
+            "who made you",
+            "who is your developer",
+            "who owns you",
+            "creator",
+            "developer",
+            "owner"
+        ],
+        "response": "I was created and am proudly owned by Sami Malik. Sami designed me to be your ultimate health and nutrition assistant."
+    },
+    {
+        "intent": "model_info",
+        "keywords": [
+            "what model are you",
+            "what version are you",
+            "what is your name",
+            "model name",
+            "ai version",
+            "which ai model"
+        ],
+        "response": "I am operating on the SAM1-2 NutriCore model, an advanced AI specifically fine-tuned for health, fitness, and nutritional science."
+    },
+    {
+        "intent": "greeting",
+        "keywords": [
+            "hi",
+            "hello",
+            "hey",
+            "greetings",
+            "good morning",
+            "good evening"
+        ],
+        "response": "Hello! I am SAM1-2 NutriCore. How can I help you reach your health and nutrition goals today?"
+    },
+    {
+        "intent": "weight_loss_advice",
+        "keywords": [
+            "how do i lose weight",
+            "lose weight fast",
+            "weight loss tips",
+            "how to burn fat",
+            "fat loss"
+        ],
+        "response": "To lose weight, you need to be in a caloric deficit—burning more calories than you consume. Focus on a high-protein diet to preserve muscle, eat plenty of fiber-rich vegetables, stay hydrated, and incorporate both resistance training and cardio into your routine."
+    },
+    {
+        "intent": "muscle_gain_advice",
+        "keywords": [
+            "how to build muscle",
+            "gain muscle",
+            "muscle growth",
+            "bulking",
+            "how to get big"
+        ],
+        "response": "Building muscle requires a caloric surplus (eating more than you burn) and progressive overload through resistance training. Ensure you consume enough protein (about 1.6 to 2.2 grams per kg of body weight) to support muscle repair and growth."
+    },
+    {
+        "intent": "protein_importance",
+        "keywords": [
+            "why is protein important",
+            "what does protein do",
+            "how much protein do i need",
+            "protein requirements"
+        ],
+        "response": "Protein is the building block of your body. It is essential for repairing muscles, producing enzymes, and supporting immune function. For active individuals, consuming 1.6 to 2.2 grams of protein per kilogram of body weight is generally recommended."
+    },
+    {
+        "intent": "water_intake",
+        "keywords": [
+            "how much water should i drink",
+            "water intake",
+            "hydration",
+            "drinking water"
+        ],
+        "response": "Hydration depends on your activity level and environment. A general baseline is about 3 liters (13 cups) for men and 2.2 liters (9 cups) for women per day. Drink more if you exercise or live in a hot climate."
+    },
+    {
+        "intent": "keto_diet",
+        "keywords": [
+            "what is keto",
+            "ketogenic diet",
+            "is keto good",
+            "keto"
+        ],
+        "response": "The Ketogenic (Keto) diet is a high-fat, very low-carb diet. By drastically reducing carbohydrate intake to around 20-50 grams per day, the body is forced to burn fat for fuel instead of glucose, a state known as ketosis. It can be effective for short-term weight loss but may be hard to sustain long-term."
+    },
+    {
+        "intent": "macronutrients",
+        "keywords": [
+            "what are macros",
+            "macros explained",
+            "what is a macronutrient",
+            "how to track macros"
+        ],
+        "response": "Macronutrients are the three main suppliers of nutrients in your diet: Carbohydrates (energy), Proteins (muscle repair/growth), and Fats (hormone regulation and satiety). Tracking them helps you precisely control your body composition."
+    },
+    {
+        "intent": "intermittent_fasting",
+        "keywords": [
+            "what is intermittent fasting",
+            "if diet",
+            "fasting",
+            "16 8 fast"
+        ],
+        "response": "Intermittent Fasting (IF) is an eating pattern that cycles between periods of fasting and eating. The most popular method is 16/8, where you fast for 16 hours and eat all your meals within an 8-hour window. It helps control calorie intake and can improve metabolic health."
+    }
+]
