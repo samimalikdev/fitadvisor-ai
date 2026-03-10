@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'package:nutrition_ai/services/shared_prefs_service.dart';
 
 class ApiController {
-final String baseUrl = 'https://nutrition-ai-backend-uchm.onrender.com/api';
+final String baseUrl = 'YOUR SERVER LINK/api';
 
   Future<Map<String, String>> _headers() async {
     final token = await SharedPrefsService().getToken();
